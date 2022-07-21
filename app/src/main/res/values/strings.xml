@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Cadastro Rh</string>
+    <string-array name = "sexo">
+        <item>SEXO</item>
+        <item>NÃO INFORMAR</item>
+        <item>MASCULINO</item>
+        <item>FEMININO</item>
+
+    </string-array>
+
+    <string-array name="civil">
+        <item>ESTADO CIVIL</item>
+        <item>SOLTEIRO(A)</item>
+        <item>CASADO(A)</item>
+        <item>DIVORCIAD(A)</item>
+        <item>SEPARADO(A)</item>
+
+    </string-array>
+    <string-array name="estados">
+        <item>UF</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+</resources>
